@@ -31,7 +31,7 @@
 
 ![img/agent_smith.png](img/agent_smith.png)
 
-~~No red pill actually. Ignore the danfbooru tags because CLIP is trained with LAION5B.~~
+~~No red pill actually. Ignore the danbooru tags because CLIP is trained with LAION5B.~~
 
 ```
 (the_matrix: 0.98), [[1boy]], [[male_focus]], [[agent_smith]], [[red_pill]]
